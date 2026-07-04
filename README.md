@@ -135,12 +135,3 @@ content-production-pipeline/
 ## Notes on using generated content responsibly
 
 This produces a strong first draft, not a finished, fact-checked publication. The pipeline's own editor stage catches structural issues (duplication, missing sections, readability) but does not verify factual claims — always have a human review generated content for accuracy before publishing, especially for anything involving statistics, dates, or claims about specific products or companies.
-
----
-
-## For your resume / portfolio
-
-Suggested bullet:
-> Built an open-source AI content production pipeline modeling a full content team (research, outline, writing, editing, SEO) as six discrete LLM-orchestrated stages, with deterministic validation (length constraints, duplicate detection, readability) layered around each generative step — bring-your-own OpenAI/Anthropic key.
-
-Pairs with the SEO audit series as the "content creation" counterpart to the "content auditing" tools — together they cover both ends of a content team's workflow.
