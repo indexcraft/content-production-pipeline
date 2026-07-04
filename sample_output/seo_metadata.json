@@ -1,0 +1,56 @@
+{
+  "title": "A Practical Guide to Technical SEO Audits",
+  "title_length": 41,
+  "meta_description": "Learn how to run a thorough technical SEO audit covering crawl budget, sitemaps, and links.",
+  "meta_description_length": 91,
+  "slug": "a-practical-guide-to-technical-seo-audits",
+  "keyword_analysis": {
+    "occurrences": 2,
+    "word_count": 137,
+    "density_pct": 1.46,
+    "assessment": "Healthy range"
+  },
+  "internal_link_suggestions": [],
+  "schema": {
+    "article": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "A Practical Guide to Technical SEO Audits",
+      "description": "Learn how to run a thorough technical SEO audit covering crawl budget, sitemaps, and links.",
+      "url": "https://indexcraft.in/a-practical-guide-to-technical-seo-audits",
+      "author": {
+        "@type": "Person",
+        "name": "Rohit Kunal"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "IndexCraft"
+      },
+      "datePublished": "2026-07-04",
+      "dateModified": "2026-07-04",
+      "wordCount": 137
+    },
+    "faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is crawl budget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is the number of pages a search engine will crawl on your site in a given time period."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should I audit my sitemap?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Quarterly is a reasonable default for most sites, monthly for large fast-changing ones."
+          }
+        }
+      ]
+    }
+  }
+}
